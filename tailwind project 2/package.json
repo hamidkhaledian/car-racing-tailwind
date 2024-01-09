@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start" : "npx tailwindcss -i ./assets/styles/css/master.css  -o ./assets/styles/css/main.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
